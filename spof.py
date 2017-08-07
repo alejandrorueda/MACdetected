@@ -13,7 +13,7 @@ class AdviceMachine():
 	log="informe.log"
 	smtp="smtp.gmail.com"
 	user="alex94000@gmail.com"
-	passw="frende5557111"
+	passw=""
 	src="alex94000@gmail.com"
 	dst="alex94000@gmail.com"
 
